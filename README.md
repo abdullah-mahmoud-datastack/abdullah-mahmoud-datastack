@@ -1,83 +1,265 @@
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=47F757&center=true&vCenter=true&random=false&width=435&lines=What's+up+%F0%9F%91%8B;I'm+Abdullah+Mahmoud;A+Data+Engineer+%E2%9A%99%EF%B8%8F;And+AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C853&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Abdullah+Mahmoud+👋;Data+Engineer+%7C+Cloud+Enthusiast+☁️;Building+Scalable+Data+Pipelines+⚙️;AI+Automation+%7C+Python+Developer+🤖" />
+</p>
+
+<h3 align="center">
+Turning raw data into scalable, production-ready data solutions.
+</h3>
+
+---
+
+# 👨‍💻 About Me
+
+I'm **Abdullah Mahmoud**, a passionate **Data Engineer** and final-year **Computer Science** student dedicated to designing scalable data platforms, cloud-native ETL pipelines, and AI-powered automation systems.
+
+I enjoy solving real-world business problems through modern data engineering technologies while continuously learning and building production-quality projects.
+
+### 🚀 Currently
+
+- 🎓 Final-year Computer Science Student (Graduating July 2026)
+- 💼 Remote Data Engineer at **Roto House**
+- ☁️ Building cloud-native ETL & ELT pipelines
+- 📊 Developing scalable analytics solutions
+- 🤖 Exploring AI Agents & LLM Automation
+
+---
+
+# 💼 Experience
+
+## Data Engineer — Roto House (Remote)
+
+Currently developing the complete backend data architecture for a production management platform including:
+
+- Data modeling
+- Production workflow automation
+- ETL pipelines
+- Reporting infrastructure
+- AI-powered business automation
+- Operational analytics
+
+---
+
+# 🚀 Featured Projects
+
+## 🌦️ Global Weather Analytics Pipeline
+
+End-to-end automated ETL pipeline that:
+
+- Collects weather data from 155+ cities
+- Uses multithreading for faster extraction
+- Stores data in Parquet
+- Provides real-time Streamlit dashboards
+
+🔗 https://github.com/abdullah-mahmoud-de/Global-Weather-Analytics-Pipeline
+
+---
+
+## 📺 YouTube AWS Serverless Data Pipeline
+
+Production-grade cloud data pipeline using:
+
+- AWS Lambda
+- AWS Glue
+- Amazon S3
+- Snowflake
+- Python
+
+🔗 https://github.com/abdullah-mahmoud-de/youtube-data-engineering-pipeline
+
+---
+
+## 🎬 IMDb Serverless ELT Pipeline
+
+Cloud-native ELT architecture for processing large-scale IMDb datasets.
+
+Technologies:
+
+- AWS Lambda
+- Amazon S3
+- Snowflake
+- Python
+
+🔗 https://github.com/abdullah-mahmoud-de/imdb-serverless-elt-pipeline
+
+---
+
+## 🏭 Production Management System
+
+Enterprise production management platform for manufacturing operations.
+
+Features include:
+
+- Factory workflow management
+- Production scheduling
+- Employee tracking
+- Data automation
+- Real-time reporting
+
+---
+
+## 🤖 AI Shift Management Agent
+
+An intelligent workforce management system powered by LLMs.
+
+Capabilities:
+
+- Automated shift assignment
+- Employee deficit management
+- Surplus optimization
+- AI decision making
+- Gemini & Grok integration
+
+---
+
+## 🎓 IBM Data Engineering Capstone
+
+Complete cloud-based Data Engineering project demonstrating:
+
+- ETL pipelines
+- Data Warehousing
+- Cloud Computing
+- Analytics
+
+🔗 https://github.com/abdullah-mahmoud-de/ibm-data-engineering-capstone-project
+
+---
+
+# 🛠 Tech Stack
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=bash"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=postgres"/>
+</p>
+
+### Data Engineering
+
+- Apache Spark
+- PySpark
+- Spark SQL
+- Apache Kafka
+- Apache Airflow
+- ETL / ELT
+- Data Warehousing
+
+### Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
+</p>
+
+Services:
+
+- AWS Lambda
+- AWS Glue
+- Amazon S3
+- Snowflake
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
 </p>
 
 ---
 
-### 👨‍💻 Professional Summary
-*   **Education:** I am a final-year Computer Science student at the [**Faculty of Computers and Artificial Intelligence**](https://www.fci.bsu.edu.eg/), expected to graduate in July 2026[cite: 1].
-*   **Current Role:** I currently work remotely as a Data Engineering professional, building a comprehensive production management system for **Roto House**[cite: 1].
-*   **Core Competencies:** I specialize in building end-to-end Data Engineering pipelines, cloud infrastructure, automated ETL processes, and real-time visualization[cite: 1].
-*   **AI Integration:** I am actively integrating large language models (like Gemini and Grok) to handle complex logic and automation in software systems[cite: 1].
-*   **Certifications & Training:** I hold the [**IBM Data Engineering L1**](https://coursera.org/share/bd8f9e072f19a4e973d7c2777c0cdcc2) professional certification and have completed the **McKinsey Forward** program for professional development[cite: 1].
+# 🌱 Currently Learning
+
+- Apache Iceberg
+- dbt
+- Terraform
+- Kubernetes
+- Data Lakehouse Architecture
+- Apache Flink
 
 ---
 
-### 💼 Professional Experience
-*   **Data Engineer | [Roto House](https://roto-house.com/) (Remote)**[cite: 1]
-    *   *Currently developing the backend data architecture and operational logic for a full-scale factory production management website[cite: 1].*
+# 🏆 Certifications
+
+- IBM Data Engineering L1
+- IBM Data Engineering Capstone
+- McKinsey Forward Program
 
 ---
 
-### 🛠️ Featured Projects
-*   [**Global Weather Analytics Pipeline:**](https://github.com/abdullah-mahmoud-de/Global-Weather-Analytics-Pipeline) Built an automated ETL pipeline using Python multithreading to extract live data for 155+ cities, transformed and saved to Parquet, with a real-time Streamlit dashboard[cite: 1].
-*   [**YouTube AWS Serverless Data Pipeline:**](https://github.com/abdullah-mahmoud-de/youtube-data-engineering-pipeline) Designed an end-to-end data engineering pipeline leveraging AWS (Glue, Lambda) and Snowflake for robust data processing and cleansing[cite: 1].
-*   **AI Shift Management Agent:** Developed an AI-driven agent to manage employee tracking and shift logic, implementing automated "Rollover" (deficit) and "Extinguisher" (surplus) logic using Grok and Gemini[cite: 1].
-*   [**IBM Data Engineering Capstone:**](https://github.com/abdullah-mahmoud-de/ibm-data-engineering-capstone-project) Applied comprehensive data engineering skills to build scalable data solutions and cloud infrastructure[cite: 1].
-*   [**IMDB Serverless ELT Pipeline:**](https://github.com/abdullah-mahmoud-de/imdb-serverless-elt-pipeline) Developed a cloud-native ELT pipeline to ingest and process large-scale movie datasets. Leveraged AWS Lambda for event-driven extraction and stored raw data in S3, utilizing Snowflake for scalable transformations and analytics[cite: 1].
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdullah-mahmoud-de&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-mahmoud-de&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-mahmoud-de&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-### 💻 Technologies & Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python" />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pyspark" height="50" alt="PySpark" />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sparksql" height="50" alt="SparkSQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="50" alt="Kafka" />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=airflow" height="50" alt="Airflow" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" height="50" alt="ETL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws" />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=lambda" height="50" alt="Amazon Lambda" />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=s3" height="50" alt="Amazon S3" />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=glue" height="50" alt="Amazon Glue" />
-  <img width="12" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=snowflake" height="50" alt="Snowflake" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker" />
-</div>
+# 📊 Contribution Graph
 
-*(Tools utilized include Python, PySpark, SparkSQL, Kafka, Airflow, ETL, AWS, Lambda, S3, Glue, Snowflake, PostgreSQL, MySQL, Git, GitHub, and Docker[cite: 1])*
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-mahmoud-de&theme=tokyo-night"/>
+
+</p>
 
 ---
 
-### 📬 Connect With Me & Resume
-<p align="left">
-    <a href="https://www.linkedin.com/in/abdullah-mahmoud-de1344/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &emsp;
-    <a href="mailto:abdullah.mahmoud.abdullah1344@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    &emsp;
-    <a href="/Abdullah-Mahmoud-CV.pdf">
-        <img src="https://img.shields.io/badge/View_My_Resume-000000?style=for-the-badge" alt="Resume" />
-    </a>
+# 📄 Resume
+
+<p align="center">
+
+<a href="/Abdullah-Mahmoud-CV.pdf">
+
+<img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/abdullah-mahmoud-de1344/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="mailto:abdullah.mahmoud.abdullah1344@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=abdullah-mahmoud-de&style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<i>"Building scalable data platforms that transform data into decisions."</i>
+
 </p>
