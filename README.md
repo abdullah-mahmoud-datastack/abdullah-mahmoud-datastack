@@ -221,7 +221,7 @@ Services:
 
 <p align="center">
 
-<a href="[Abdullah-Mahmoud-CV](https://drive.google.com/file/d/1g0Cm11QaCgsSMxm5A28iistT2LRfHFEg/view?usp=drive_link)">
+<a href="https://drive.google.com/file/d/1g0Cm11QaCgsSMxm5A28iistT2LRfHFEg/view?usp=drive_link">
 
 <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge"/>
 
