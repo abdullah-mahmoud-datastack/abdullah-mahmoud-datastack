@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C853&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Abdullah+Mahmoud+👋;Data+Engineer+%7C+Cloud+Enthusiast+☁️;Building+Scalable+Data+Pipelines+⚙️;AI+Automation+%7C+Python+Developer+🤖" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C853&center=true&vCenter=true&width=700&lines=Hi+there!+I%27m+Abdullah+Mahmoud+%F0%9F%91%8B;Data+Engineer+%7C+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Building+Scalable+Data+Pipelines+%E2%9A%99%EF%B8%8F;AI+Automation+%7C+Python+Developer+%F0%9F%A4%96&v=2" alt="Typing SVG" />
 </p>
 
 
@@ -18,7 +18,7 @@ I enjoy solving real-world business problems through modern data engineering tec
 ### 🚀 Currently
 
 - 🎓 Final-year Computer Science Student (Graduating July 2026)
-- 💼 Remote Data Engineer at **Roto House**
+- 💼 Remote AI Engineer at **Roto House**
 - ☁️ Building cloud-native ETL & ELT pipelines
 - 📊 Developing scalable analytics solutions
 - 🤖 Exploring AI Agents & LLM Automation
@@ -27,9 +27,9 @@ I enjoy solving real-world business problems through modern data engineering tec
 
 # 💼 Experience
 
-## Data Engineer — Roto House (Remote)
+## AI Engineer — Roto House (Remote)
 
-Currently developing the complete backend data architecture for a production management platform including:
+Currently developing the complete backend data architecture for a production management platform, including:
 
 - Data modeling
 - Production workflow automation
@@ -51,7 +51,7 @@ End-to-end automated ETL pipeline that:
 - Stores data in Parquet
 - Provides real-time Streamlit dashboards
 
-🔗 https://github.com/abdullah-mahmoud-de/Global-Weather-Analytics-Pipeline
+🔗 https://github.com/abdullah-mahmoud-datastack/Global-Weather-Analytics-Pipeline
 
 ---
 
@@ -65,7 +65,7 @@ Production-grade cloud data pipeline using:
 - Snowflake
 - Python
 
-🔗 https://github.com/abdullah-mahmoud-de/youtube-data-engineering-pipeline
+🔗 https://github.com/abdullah-mahmoud-datastack/youtube-data-engineering-pipeline
 
 ---
 
@@ -80,7 +80,7 @@ Technologies:
 - Snowflake
 - Python
 
-🔗 https://github.com/abdullah-mahmoud-de/imdb-serverless-elt-pipeline
+🔗 https://github.com/abdullah-mahmoud-datastack/imdb-serverless-elt-pipeline
 
 ---
 
@@ -121,7 +121,7 @@ Complete cloud-based Data Engineering project demonstrating:
 - Cloud Computing
 - Analytics
 
-🔗 https://github.com/abdullah-mahmoud-de/ibm-data-engineering-capstone-project
+🔗 https://github.com/abdullah-mahmoud-datastack/ibm-data-engineering-capstone-project
 
 ---
 
@@ -193,15 +193,15 @@ Services:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdullah-mahmoud-de&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdullah-mahmoud-datastack&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-mahmoud-de&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-mahmoud-datastack&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-mahmoud-de&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-mahmoud-datastack&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -211,7 +211,7 @@ Services:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-mahmoud-de&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-mahmoud-datastack&theme=tokyo-night"/>
 
 </p>
 
@@ -253,7 +253,7 @@ Services:
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=abdullah-mahmoud-de&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=abdullah-mahmoud-datastack&style=for-the-badge"/>
 
 </p>
 
