@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C853&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Abdullah+Mahmoud+👋;Data+Engineer+%7C+Cloud+Enthusiast+☁️;Building+Scalable+Data+Pipelines+⚙️;AI+Automation+%7C+Python+Developer+🤖" />
 </p>
 
+
 <h3 align="center">
 Turning raw data into scalable, production-ready data solutions.
 </h3>
